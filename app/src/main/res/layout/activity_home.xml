@@ -19,7 +19,7 @@
         android:layout_alignBottom="@+id/go"
         android:layout_toLeftOf="@+id/go"
         android:layout_alignParentLeft="true"
-        android:text="https://github.com/mmin18/AndroidDynamicLoader/blob/master/site/helloworld/site.txt"
+        android:text="https://github.com/eric0523/DemoBrowser/blob/main/site/helloworld/site.txt"
         android:inputType="textUri" />
 
     <Button
